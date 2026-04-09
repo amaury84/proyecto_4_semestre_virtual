@@ -1,5 +1,5 @@
-import 'ProductoFisico.dart';
-import 'Producto.dart';
+import 'model/ProductoFisico.dart';
+import 'model/Producto.dart';
 
 void main(){
   print("hola mundo");
